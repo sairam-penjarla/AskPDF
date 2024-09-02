@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+bitsandbytes
+langchain
+sentence-transformers
+faiss-gpu
+openpyxl
+pacmap
+datasets
+langchain-community
+ragatouille
+PyPDF2
+tqdm
+pandas
+matplotlib
+plotly
